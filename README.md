@@ -48,7 +48,7 @@ Tableau · Excel · Jupyter Notebook · Data Storytelling
 
 - 🎮 Twitch streamer, Latin Guild member & community builder  
 - 🤝 Hot Topic Partner & Razer Creator Program  
-- 🇲🇽 First-gen & bilingual  
+- ☝️ First-gen & bilingual  
 - 🐾 Horror lover & animal enthusiast  
 - 🧠 Background in psychology & behavioral analysis  
 
