@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tanya
+# 👋 Hello, I’m Tanya
 
 🎓 **M.S. in Data Science** — University of San Diego  
 🎓 **BA in Psychology** — California State University Channel Islands 
