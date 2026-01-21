@@ -57,7 +57,7 @@ Tableau · Excel · Jupyter Notebook · Data Storytelling
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/tanya-ortegaa/  
-- 🧑‍💻 **Portfolio:** https://tanyaortega.com  
+- 🧑‍💻 **Portfolio:** https://tanya-ortega.com  
 - 📍 Palmdale, CA
 
 
